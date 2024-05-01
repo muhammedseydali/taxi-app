@@ -1,7 +1,7 @@
 **installation**
 **clone this repository**
 
-git clone https://github.com/muhammedseydali/taxi-app/new
+git clone https://github.com/muhammedseydali/taxi-app
 cd project
 
 **pip install -r requirements.txt**
