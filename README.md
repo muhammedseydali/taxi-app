@@ -2,12 +2,16 @@
 **clone this repository**
 
 git clone https://github.com/muhammedseydali/taxi-app
+
 cd project
 
 **pip install -r requirements.txt**
 
 Enter
 python manage.py runserver
+
+------for swagger-----
+**http://127.0.0.1:8000/swagger/**
 
 **WebSocket Connection:**
 
